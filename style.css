@@ -1,0 +1,17 @@
+html,body{
+    height: 100;
+    background-color:rgb(225, 225, 225) ;
+    color: rgb(0, 0, 0);
+}
+
+.time{
+    width: 80px;
+}
+
+footer{
+    margin-top: 20px;
+}
+footer a {
+    text-decoration: none;
+color: aliceblue;
+}
